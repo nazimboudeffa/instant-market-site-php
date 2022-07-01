@@ -57,7 +57,7 @@
                     </a>
                 </div>
                 <div class="name">
-                    Krables <br />
+                    Instant <br />
                     <span>Market</span>
                 </div>
                 <div class="selecloc">
