@@ -16,4 +16,4 @@
     <img src="https://img.shields.io/github/last-commit/detronetdip/E-commerce"/>
 </p>
 
-original project https://github.com/detronetdip/E-commerce
+Original Project https://github.com/detronetdip/E-commerce
