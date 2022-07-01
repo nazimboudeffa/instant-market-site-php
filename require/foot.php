@@ -6,22 +6,23 @@
                     <li>
                         <a href="#">
                             <i class="uil uil-dialpad-alt"></i>
-                            1800-000-000
+                            (+33)773563992
                         </a>
                     </li>
                     <li>
                         <a href="#">
                             <i class="uil uil-envelope-alt"></i>
-                            info@Krables.com
+                            staff.shoppingandco@gmail.com
                         </a>
                     </li>
                 </ul>
                 <ul class="ul2">
                     <li>
-                        <a href="#">
+                        <a href="https://www.facebook.com/shoppingandco">
                             <i class="uil uil-facebook-f"></i>
                         </a>
                     </li>
+                    <!--
                     <li>
                         <a href="#">
                             <i class="uil uil-twitter"></i>
@@ -37,6 +38,7 @@
                             <i class="uil uil-linkedin-alt"></i>
                         </a>
                     </li>
+                    -->
                 </ul>
             </div>
         </div>

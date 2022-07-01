@@ -147,7 +147,7 @@
                         <li>
                             <a href="" class="rightlink">
                                 <i class="uil uil-phone-alt"></i>
-                                1800-000-0000
+                                (+33)773563992
                             </a>
                         </li>
                         <li>
