@@ -57,7 +57,7 @@
                     </a>
                 </div>
                 <div class="name">
-                    Instant <br />
+                    Krables <br />
                     <span>Market</span>
                 </div>
                 <div class="selecloc">
@@ -147,7 +147,7 @@
                         <li>
                             <a href="" class="rightlink">
                                 <i class="uil uil-phone-alt"></i>
-                                (+33)773563992
+                                1800-000-0000
                             </a>
                         </li>
                         <li>
